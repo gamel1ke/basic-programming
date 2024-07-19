@@ -1,8 +1,17 @@
-const firstName : string = 'เอกภพ จำเนียร'
+const FirstName: string = 'เอกภพ จำเนียร'
 let y : number = 10
 y = 20
-let อยากกลับบ้าน : boolean = true
+let BackToHone : boolean = true
 
-console.log(firstName)
+console.log(FirstName)
 console.log(y)
-console.log(อยากกลับบ้าน)
+console.log(BackToHone)
+
+
+
+const a : number = 18
+const b : number = 13
+
+console.log(a!==b)
+console.log(a>b)
+console.log(a>=b)
